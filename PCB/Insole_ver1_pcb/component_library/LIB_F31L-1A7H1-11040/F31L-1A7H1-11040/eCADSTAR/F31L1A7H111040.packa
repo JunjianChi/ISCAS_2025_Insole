@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "F31L-1A7H1-11040"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-06-07-08:19:24)
+    (mountForm default
+        (footprintRef "F31L1A7H111040")
+        (spec "System")
+    )
+)

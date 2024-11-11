@@ -1,0 +1,9 @@
+Manufacturer=Amphenol
+PartNumber=F31L-1A7H1-11040
+PartCategory=Connector
+PackageCategory=Other
+PinCount=42
+Version=2.5
+Released=2024-06-07 08:19:24
+Downloaded=2024-07-20 14:21:52
+3D=Y

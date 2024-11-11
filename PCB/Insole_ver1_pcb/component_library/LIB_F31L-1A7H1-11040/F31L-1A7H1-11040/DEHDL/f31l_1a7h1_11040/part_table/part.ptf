@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'F31L_1A7H1_11040'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol", "F31L-1A7H1-11040" (!) = "", "F31L1A7H111040", "Other", "", "", "40 Position FFC, FPC Connector Contacts, Bottom 0.020" (0.50mm) Surface Mount, Right Angle", "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/a-s0099-lf31l.pdf", "2.75 mm"
+END_PART
+
+END.
