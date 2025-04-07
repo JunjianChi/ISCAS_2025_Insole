@@ -1,4 +1,4 @@
-# Insole_mocap
+# ISCAS_2025_Insole
 
 This project focuses on capturing high-resolution plantar pressure data from a custom insole equipped with **255 pressure sensors**. The system is designed for gait analysis and motion recognition using embedded hardware and machine learning pipelines.
 
